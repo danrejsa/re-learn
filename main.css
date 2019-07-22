@@ -1,0 +1,113 @@
+html,body{
+    width: 100%;
+    height:100%;
+}
+
+header{
+    height:100px;
+    width:100%;
+    display:flex;
+    background: #F4F1F2;
+    align-content: center;
+    margin-bottom:0px;
+}
+.background{
+    background-image: url('http://bit.ly/relearnbac');
+    height:500px;
+    width:100%;
+    position:absolute;
+  
+}
+
+#background-logo{
+    margin-top:2rem;
+    width:150px;
+    margin-top:2rem;
+}
+.bck{
+    margin-top:5rem
+}
+._background-content{
+    margin-top:0px;
+    padding:0px;
+    width:50%;
+    color:#FFFFFF;
+    margin-left:auto;
+    margin-right:auto;
+    align-content: center;
+   text-align:center;
+}
+
+#logo{
+margin:auto;
+height:70px;
+}
+
+a{
+    color:#1DA1F2
+}
+.activities{
+    text-align: center
+}
+h3{
+    float:left;
+    margin-left:45px;
+}
+
+
+section{
+    color:#464646;
+    margin-top:33rem;
+}
+.summer-of-code-activities{
+    margin-top:2rem;
+    
+}
+h1{
+    margin:0;
+}
+
+.summer-of-code{
+    display:flex;
+    width:100%;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background:#484A5D;
+    height:100px;
+    width: 100%;
+    display:flex;
+    position:relative;
+    flex-wrap: wrap;
+  margin-top:3rem;
+}
+.footer-content-img{
+    width:35%
+}
+.footer-content-text{
+    width:55%;
+    text-align: right;
+    margin-right:10px;
+   margin-top:2.5rem;
+    color:#ffffff;
+}
+
+#footer-img{
+    width:100px;
+    height:50px;
+    margin-left:60px;
+    margin-top:2rem;
+}
+
+#summer-img-content{
+    width:30%;
+}
+#summer-img{
+    width:300px;
+    height:250px;
+}
+#summer-text{
+    width:65%;
+    text-align: justify;
+}
